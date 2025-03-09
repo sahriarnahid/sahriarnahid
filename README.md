@@ -53,55 +53,16 @@ I'm an **UnderGrad Student🎓 [@ University of Debrecen 🅾️](https://unideb
 </div>
 
 
-## 🏆 Recent Achievements
+## 🏆 Achievements
 
-<div align="center">
-  <table style="width: 100%;">
-    <tr>
-        <td align="center" width="20%">
-        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
-        <br />
-        <strong>Best Prototype</strong>
-        <br />
-        <a href="">BCOLBD 2023</a>
-        <br />
-        <sub>4th National Blockchain Olympiad (Jan. 2025)</sub>
-      </td>
-        <td align="center" width="27%">
-        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
-        <br />
-        <strong>Finalist</strong>
-        <br />
-        <a href="">BCOLBD 2024</a>
-        <br />
-        <sub>5th National Blockchain Olympiad (Dec. 2024)</sub>
-      </td>
-      <td align="center" width="23%">
-        <img src="https://img.icons8.com/color/48/000000/trophy.png" width="30"/>
-        <br />
-        <strong>Award of Merit</strong>
-        <br />
-        <a href="">IBCOL 2023</a>
-        <br />
-        <sub>Amsterdam, Netherlands (Nov. 2024)</sub>
-      </td>
-      <td align="center" width="30%">
-        <img src="https://img.icons8.com/color/48/000000/medal2.png" width="30"/>
-        <br />
-        <strong>1st Runner-Up</strong>
-        <br />
-        <a href="">Hult Prize 2024</a>
-        <br />
-        <sub>BDU On-Campus (Sep. 2024)</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+| 🏅 **Award** | 📍 **Event** | 📅 **Year** |
+|------------|-------------|-----------|
+| 🏆 **Best Prototype** | National Blockchain Olympiad | 2023 |
+| 🎖 **Finalist** | National Blockchain Olympiad | 2024 |
+| 🏅 **Award of Merit** | International Blockchain Olympiad (Amsterdam) | 2023 |
+| 🥈 **1st Runner-Up** | Hult Prize (BDU On-Campus) | 2024 |
 
-
-
-
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -113,7 +74,7 @@ I'm an **UnderGrad Student🎓 [@ University of Debrecen 🅾️](https://unideb
 </p>
 
 
-
+---
 
 ## Projects and Dev Stuffs:
 
